@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcTableau" itemID="522f57b2-000001da" lastModified="1378836218">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcTableau" itemID="522f57b2-000001da" lastModified="1379010053">
   <timeline>
     <DOMTimeline name="mcTableau">
       <layers>
-        <DOMLayer name="txt" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="txt" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -32,7 +32,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="txtVies" selected="true" fontRenderingMode="standard" width="27" height="22.35" isSelectable="false">
+                <DOMDynamicText name="txtVies" fontRenderingMode="standard" width="27" height="22.35" isSelectable="false">
                   <matrix>
                     <Matrix tx="74" ty="31.25"/>
                   </matrix>
@@ -49,27 +49,27 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="fond" color="#4FFF4F" autoNamed="false">
+        <DOMLayer name="fond" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <SolidColor alpha="0.247058823529412"/>
+                      <SolidColor color="#999999"/>
                     </FillStyle>
                   </fills>
                   <strokes>
                     <StrokeStyle index="1">
-                      <SolidStroke scaleMode="normal" weight="3">
+                      <SolidStroke scaleMode="normal" caps="square" weight="8" joints="miter">
                         <fill>
-                          <SolidColor alpha="0.498039215686275"/>
+                          <SolidColor color="#009900"/>
                         </fill>
                       </SolidStroke>
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!-6 -3|2145 -3!2145 -3|2145 1202!2145 1202|-6 1202!-6 1202|-6 -3"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1109 2208|-439 660!-439 660|1110 -889!1110 -889|2658 659!2658 659|1109 2208"/>
                   </edges>
                 </DOMShape>
               </elements>

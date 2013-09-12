@@ -6,12 +6,12 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMGroup selected="true">
+                <DOMGroup>
                   <transformationPoint>
                     <Point x="47.55" y="67.7"/>
                   </transformationPoint>
                   <members>
-                    <DOMShape selected="true">
+                    <DOMShape>
                       <transformationPoint>
                         <Point x="47.55" y="67.7"/>
                       </transformationPoint>
@@ -43,7 +43,7 @@
                     </DOMShape>
                   </members>
                 </DOMGroup>
-                <DOMSymbolInstance libraryItemName="mcCorpsBibitte" selected="true" centerPoint3DX="50.5" centerPoint3DY="59.75">
+                <DOMSymbolInstance libraryItemName="mcCorpsBibitte" centerPoint3DX="50.5" centerPoint3DY="59.75">
                   <matrix>
                     <Matrix a="1.50003051757813" d="1.20001220703125" tx="16.15"/>
                   </matrix>
